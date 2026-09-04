@@ -23,19 +23,23 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Um pequeno vídeo de um avatar meu como gangster dizendo uma citação gangster em inglês.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Gemini para criação do avatar gangster.
+ChatGPT para criar a citação.
+D-ID para geração do vídeo.
+
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Peguei uma foto minha normal, usei um braço do Gemini para criar transformar em um avatar gangster mafioso dos anos 50. Gerei uma citação de no máximo 20 palavras usando o chatGPT, estas 20 palavras são o limite do free no D-ID e então no D-ID escolhi uma voz masculina de adulto para criar o video já que não consigo clonar a minha voz em uma versão free.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+https://studio.d-id.com/share?d=85ef9273045d6583b3596ee428975a7b&utm_source=copy
+
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Não é muito desafiador criar algo por diversão ou que não precise enganar alguém, como um avatar de conteúdo, um apresentador virtual ou algo do tipo. 
 ```
 
 ### Exemplos e Insigths
