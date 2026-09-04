@@ -35,7 +35,8 @@ D-ID para geração do vídeo.
 Peguei uma foto minha normal, usei um braço do Gemini para criar transformar em um avatar gangster mafioso dos anos 50. Gerei uma citação de no máximo 20 palavras usando o chatGPT, estas 20 palavras são o limite do free no D-ID e então no D-ID escolhi uma voz masculina de adulto para criar o video já que não consigo clonar a minha voz em uma versão free.
 
 ## 🚀 Resultados
-https://studio.d-id.com/share?d=85ef9273045d6583b3596ee428975a7b&utm_source=copy
+
+https://studio.d-id.com/share?id=85ef9273045d6583b3596ee428975a7b&utm_source=copy
 
 
 ## 💭 Reflexão (Opcional)
